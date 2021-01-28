@@ -12,7 +12,7 @@ const Information = () => {
     }
 
     return (
-        <div>
+        <div className="info">
             <div className="visor">
                 <p>Alcohol</p>
                 <p>Gasoline</p>
